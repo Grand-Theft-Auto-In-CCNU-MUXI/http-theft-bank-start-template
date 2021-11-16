@@ -49,7 +49,7 @@ http://http-theft-bank.gtainccnu.muxixyz.com/api/v1/organization/code
 
 * 目前模版里有 6 个文件夹，每个 checkpoint 的程序放在对应文件夹里面
 
-* 如果是用 github classroom，每推一次仓库会告诉你有无通过
+* 如果是用 github classroom，每推一次仓库（可能）会告诉你有无通过
 
 * 为了更容易通关，需要导入 hacker-support 包 
   
