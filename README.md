@@ -51,6 +51,8 @@ http://http-theft-bank.gtainccnu.muxixyz.com/api/v1/organization/code
 
 * 如果是用 github classroom，每推一次仓库（可能）会告诉你有无通过
 
+* **注意把每个 checkpoint 返回的文本信息要输出，自动检测需要**
+
 * 为了更容易通关，需要导入 hacker-support 包 
   
   包地址： https://github.com/Grand-Theft-Auto-In-CCNU-MUXI/hacker-support
