@@ -1,4 +1,4 @@
-package checkpoint5
+package main
 
 import (
 	"fmt"
