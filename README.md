@@ -45,9 +45,11 @@ http://http-theft-bank.gtainccnu.muxixyz.com/api/v1/organization/code
 
 ## Tips
 
-* 通关游戏，目前一共有 6 个 checkpoint。通关游戏之后会有**明确的提示**。
+* 通关游戏，目前一共有 5 个 checkpoint。通关游戏之后会有**明确的提示**。
 
-* 目前模版里有 6 个文件夹，每个 checkpoint 的程序放在对应文件夹里面
+* 目前模版里有 5 个文件夹，每个 checkpoint 的程序放在对应文件夹里面
+
+  单独一个 main.go 文件，不要改文件名，否则测试无法通过
 
 * 如果是用 github classroom，每推一次仓库（可能）会告诉你有无通过
 
