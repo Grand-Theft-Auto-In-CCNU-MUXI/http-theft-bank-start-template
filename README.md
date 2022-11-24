@@ -39,7 +39,7 @@
 
 文字的最后，出现了一个字符串：
 
-http://http-theft-bank.gtainccnu.muxixyz.com/api/v1/organization/code
+http://gtainmuxi.muxixyz.com/api/v1/organization/code
 
 似乎是一个网址，用浏览器打开或许能找到一些线索......
 
